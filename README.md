@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/ef5b2b5e-4cf0-4db8-9354-cab8c9652a20
 1️⃣ Clone the repository:
 git clone https://github.com/humza1201/portfolio.git
 
-2️⃣ Open the index.html file in your browse
+2️⃣ Open the https://playful-bombolone-f984a2.netlify.app/ file in your browse
 
 🤝 Contributing
 Want to improve this project? Feel free to fork and submit PRs!
