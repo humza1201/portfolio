@@ -647,7 +647,7 @@ footer {
     }
 
     .slider .list {
-        min-width: calc(30rem*var(--quantity));
+        min-width: calc(40rem*var(--quantity));
     }
 
     .contact-section {
