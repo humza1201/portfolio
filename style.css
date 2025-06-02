@@ -641,19 +641,13 @@ footer {
 
     .slider .list .item {
         width: 40rem;
-        height: 30rem;
+        height: 20rem;
         animation: autoRun 20s linear infinite;
         animation-delay: calc((20s / 20)*(var(--position)-1)-20s) !important;
     }
 
-    .slider .list .item video {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
     .slider .list {
-        min-width: calc(40rem*var(--quantity));
+        min-width: calc(30rem*var(--quantity));
     }
 
     .contact-section {
