@@ -640,8 +640,8 @@ footer {
 
 
     .slider .list .item {
-        width: 80rem;
-        height: 40rem;
+        width: 40rem;
+        height: 30rem;
         animation: autoRun 20s linear infinite;
         animation-delay: calc((20s / 20)*(var(--position)-1)-20s) !important;
     }
