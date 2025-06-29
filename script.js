@@ -15,8 +15,10 @@ const video5 = document.getElementById("project5");
 const video6 = document.getElementById("project6");
 const video7 = document.getElementById("project7");
 const video8 = document.getElementById("project8");
+const video9 = document.getElementById("project9");
 
-const videolist = [video1,video2,video3,video4,video5,video6,video7,video8];
+
+const videolist = [video1,video2,video3,video4,video5,video6,video7,video8,video9];
 
 videolist.forEach(function(video){
     video.addEventListener("mouseover",function(){
