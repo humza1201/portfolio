@@ -49,7 +49,7 @@ d.removeEventListener("click", ()=>{
 });
 
 //form
-document.getElementById("contactForm").addEventListener("submit",function(e){
+document.getElementById("ContactForm").addEventListener("submit",function(e){
     e.preventDefault();
 
     document.getElementById("successMessage").style.display = "block";
