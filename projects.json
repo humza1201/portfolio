@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Spotify Clone",
+    "description": "A dynamic music streaming platform clone with modern UI/UX design, featuring music playback, playlists, and user authentication.",
+    "videoUrl": "videos/spotifyclone.mp4"
+  },
+  {
+    "title": "Amazon Clone",
+    "description": "E-commerce platform clone with product listings, shopping cart functionality, and responsive design for online shopping experience.",
+    "videoUrl": "videos/amazonclone.mp4"
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "Streaming service clone with movie/show browsing, video player, and Netflix-style interface and animations.",
+    "videoUrl": "videos/netflixclone.mp4"
+  },
+  {
+    "title": "Weather App",
+    "description": "Real-time weather application with location-based forecasts, current conditions, and beautiful weather animations.",
+    "videoUrl": "videos/weatherApp.mp4"
+  },
+  {
+    "title": "Todo List",
+    "description": "Task management application with add, edit, delete functionality and local storage for persistent data.",
+    "videoUrl": "videos/todolist.mp4"
+  },
+  {
+    "title": "QR Code Generator",
+    "description": "QR code generation tool that creates scannable codes for URLs, text, and contact information with download functionality.",
+    "videoUrl": "videos/qrcodegenerator.mp4"
+  },
+  {
+    "title": "Calculator",
+    "description": "Modern calculator application with scientific functions, clean interface, and responsive design for mathematical operations.",
+    "videoUrl": "videos/calculator.mp4"
+  },
+  {
+    "title": "Analog Clock (C++)",
+    "description": "C++ console application featuring a real-time analog clock with hour, minute, and second hands using graphics programming.",
+    "videoUrl": "videos/analogclockincpp.mp4"
+  }
+] 
